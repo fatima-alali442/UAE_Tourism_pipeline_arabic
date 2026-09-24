@@ -1,0 +1,458 @@
+id,text,intent
+001,Is Ferrari World open on Fridays?,hours_logistics
+002,Wa alaikum salam,greeting
+003,What activities are good for toddlers in Sharjah?,recommendation
+004,What history does Dubai Frame have?,attraction_info
+005,Is Louvre Abu Dhabi open on Fridays?,hours_logistics
+006,When does Louvre Abu Dhabi close?,hours_logistics
+007,How much does it cost to enter Ajman Museum?,ticket_booking
+008,What should first-time visitors see in Ajman?,recommendation
+009,Best family activities in Abu Dhabi?,recommendation
+010,Shlonak?,greeting
+011,What's the stock price of Apple?,other
+012,Romantic spots for couples in Fujairah?,recommendation
+013,Hi there,greeting
+014,What's the meaning of life?,other
+015,What time does Sheikh Zayed Grand Mosque open?,hours_logistics
+016,Where should we go for our anniversary in Ajman?,recommendation
+017,How do I reset my phone?,other
+018,"We have teenagers, what would they enjoy in Abu Dhabi?",recommendation
+019,What time does Al Fahidi Historical Neighbourhood open?,hours_logistics
+020,"We're newlyweds spending a week in Abu Dhabi, what should we prioritize?",recommendation
+021,"We're visiting for 3 days with a toddler, what's a good itinerary in Abu Dhabi?",recommendation
+022,Where can I take my children this weekend in Abu Dhabi?,recommendation
+023,Do I need to book in advance for Al Noor Island?,ticket_booking
+024,What are the top attractions in Umm Al Quwain?,recommendation
+025,"I'm traveling with young kids, what do you suggest in Dubai?",recommendation
+026,What's the most romantic place in Sharjah?,recommendation
+027,Is Qasr Al Watan open on public holidays?,hours_logistics
+028,What's the most romantic place in Dubai?,recommendation
+029,Is Fujairah Fort open on Fridays?,hours_logistics
+030,What's the best time of day to visit?,hours_logistics
+031,Do I need to book in advance for Ferrari World?,ticket_booking
+032,"I'm planning a surprise trip for my girlfriend to Sharjah, what should we do?",recommendation
+033,How do I say thank you in Hindi?,other
+034,What's a good date spot in Abu Dhabi?,recommendation
+035,Sabah al-khair,greeting
+036,Best family activities in Umm Al Quwain?,recommendation
+037,"We have a baby, what places are stroller-friendly?",recommendation
+038,What's the wifi password?,other
+039,What history does Ferrari World have?,attraction_info
+040,Is Sheikh Zayed Grand Mosque worth visiting?,attraction_info
+041,"I want to explore Abu Dhabi, what should I see?",recommendation
+042,Is Fujairah Fort worth visiting?,attraction_info
+043,What can I do with my kids in Abu Dhabi?,recommendation
+044,What's my horoscope today?,other
+045,Suggest a romantic getaway in Umm Al Quwain,recommendation
+046,Any honeymoon-worthy spots in Abu Dhabi?,recommendation
+047,"My partner and I have 2 days in Dubai, what's a romantic itinerary?",recommendation
+048,Where can my partner and I have a quiet evening in Fujairah?,recommendation
+049,Can you solve this math problem?,other
+050,Where do couples usually go for a special evening?,recommendation
+051,What's the dress code for Al Fahidi Historical Neighbourhood?,visitor_rules
+052,What can tourists do in Umm Al Quwain?,recommendation
+053,Can I visit Sharjah Museum of Islamic Civilization in the evening?,other
+054,Where can I see traditional Emirati architecture?,recommendation
+055,Any theme parks suitable for kids in Abu Dhabi?,recommendation
+056,Any must-see spots in Fujairah?,recommendation
+057,How much does it cost to enter Dubai Frame?,ticket_booking
+058,Any candlelit dinner spots you'd recommend?,recommendation
+059,What's a peaceful place for couples in Abu Dhabi?,recommendation
+060,Can I use my credit card everywhere?,other
+061,Any kid-friendly places in Ajman?,recommendation
+062,What days is Ferrari World closed?,hours_logistics
+063,What's up?,greeting
+064,What can I visit in Umm Al Quwain?,recommendation
+065,"We're a family of five, what do you recommend?",recommendation
+066,What can I fit into a half-day visit to Sharjah?,attraction_info
+067,Can you write me a poem?,other
+068,What kind of place is Ajman Museum?,attraction_info
+069,Salaam,greeting
+070,What's a peaceful place for couples in Dubai?,recommendation
+071,Can you recommend a landmark in Dubai?,recommendation
+072,Can you help me file my taxes?,other
+073,Can you recommend a landmark in Ras Al Khaimah?,recommendation
+074,What's worth seeing near Abu Dhabi?,recommendation
+075,Can you recommend a movie?,recommendation
+076,Can you recommend a landmark in Fujairah?,recommendation
+077,Can you order food for me?,other
+078,What's the best mobile network here?,recommendation
+079,Do I need tickets for Dreamland Aqua Park?,ticket_booking
+080,Where can we watch the sunset together?,recommendation
+081,What are the visiting hours for Dubai Mall?,hours_logistics
+082,What's fun for the whole family in Dubai?,recommendation
+083,Where should we go for our anniversary in Ras Al Khaimah?,recommendation
+084,Where can my partner and I have a quiet evening in Abu Dhabi?,recommendation
+085,Can I visit Fujairah Fort in the evening?,other
+086,What's a peaceful place for couples in Sharjah?,recommendation
+087,Kaifa haalak?,greeting
+088,Where can my family spend a day out in Fujairah?,recommendation
+089,"I have one day only in Abu Dhabi, what are the must-see spots?",recommendation
+090,What can I do with my kids in Sharjah?,recommendation
+091,Where can my husband and I relax together?,recommendation
+092,What are the top attractions in Ras Al Khaimah?,recommendation
+093,Salam alaikum,greeting
+094,Family-friendly things to do in Abu Dhabi?,recommendation
+095,Set a reminder for tomorrow,other
+096,Is Museum of the Future open today?,hours_logistics
+097,Show me famous places in Sharjah,recommendation
+098,What's a nice sunset spot for couples in Ras Al Khaimah?,recommendation
+099,Any romantic restaurants in Dubai?,recommendation
+100,Give me some sightseeing ideas in Umm Al Quwain,recommendation
+101,What can tourists do in Ajman?,recommendation
+102,Bye,greeting
+103,What are the visiting hours for Sheikh Zayed Grand Mosque?,hours_logistics
+104,How much does it cost to enter Sharjah Museum of Islamic Civilization?,ticket_booking
+105,How do I get a local SIM card?,other
+106,Shukran,greeting
+107,Marhaba,greeting
+108,What's the score of the cricket match?,other
+109,What can I do with my kids in Fujairah?,recommendation
+110,Is Burj Khalifa open today?,hours_logistics
+111,What kind of place is Dreamland Aqua Park?,attraction_info
+112,Can I visit without a prior reservation?,ticket_booking
+113,What's the population of the UAE?,other
+114,What heritage sites exist in the UAE?,recommendation
+115,Sabah al-noor,greeting
+116,Where can I take my partner in Ajman?,recommendation
+117,Kaifa haalik?,greeting
+118,What's the most romantic place in Fujairah?,recommendation
+119,What activities are good for toddlers in Ajman?,recommendation
+120,Where can I take my children this weekend in Sharjah?,recommendation
+121,Any honeymoon-worthy spots in Sharjah?,recommendation
+122,"It's me, my husband, and our baby, what's a relaxed day plan in Ras Al Khaimah?",recommendation
+123,What are the visiting hours for Dreamland Aqua Park?,hours_logistics
+124,What should first-time visitors see in Abu Dhabi?,recommendation
+125,What's fun for the whole family in Sharjah?,recommendation
+126,Do I need tickets for Al Fahidi Historical Neighbourhood?,ticket_booking
+127,How do I cook pasta?,other
+128,Where can we go as a family this weekend?,recommendation
+129,Show me famous places in Dubai,recommendation
+130,Any must-see spots in Abu Dhabi?,recommendation
+131,What can tourists do in Dubai?,recommendation
+132,Where can my family spend a day out in Umm Al Quwain?,recommendation
+133,Good afternoon,greeting
+134,Recommend a cultural site in Ras Al Khaimah,recommendation
+135,Tell me about Dubai Mall,attraction_info
+136,Yo,greeting
+137,"I'm curious about Fujairah Fort, what is it like?",attraction_info
+138,"We're a group of 5 friends here for 3 days, what should we see in Dubai?",recommendation
+139,"I want to see something historical, any suggestions?",attraction_info
+140,What's special about Jebel Jais?,attraction_info
+141,Where is the best view of Dubai skyline?,recommendation
+142,"My wife and I have two teenagers, what would work for all of us in Sharjah?",recommendation
+143,"We're a group of grandparents and grandkids, what's manageable for everyone in Dubai?",recommendation
+144,What's fun for the whole family in Ajman?,recommendation
+145,Do mosques have specific visiting hours for tourists?,hours_logistics
+146,Where can I take my children this weekend in Dubai?,recommendation
+147,What is Dubai Mall?,attraction_info
+148,What's special about Al Fahidi Historical Neighbourhood?,attraction_info
+149,"My kids love animals, where should we go?",recommendation
+150,Romantic spots for couples in Ras Al Khaimah?,recommendation
+151,Any kid-friendly places in Umm Al Quwain?,recommendation
+152,Any playgrounds or parks for children in Fujairah?,recommendation
+153,Best family activities in Dubai?,recommendation
+154,What's inside Qasr Al Watan?,attraction_info
+155,Marhaba al saa,greeting
+156,What's a good date spot in Umm Al Quwain?,recommendation
+157,What time does Dubai Frame open?,hours_logistics
+158,Show me famous places in Umm Al Quwain,recommendation
+159,What's the most popular attraction in Dubai?,attraction_info
+160,Play some music,other
+161,Best family activities in Ras Al Khaimah?,recommendation
+162,When does Fujairah Fort close?,hours_logistics
+163,Describe Dreamland Aqua Park for me,attraction_info
+164,Can you help me plan my finances?,other
+165,What's special about Dubai Mall?,attraction_info
+166,What's the dress code for Louvre Abu Dhabi?,visitor_rules
+167,What natural landmarks does Ras Al Khaimah have?,attraction_info
+168,What can I do with my kids in Ras Al Khaimah?,recommendation
+169,Nice to meet you,greeting
+170,What indoor activities are good for kids when it's hot?,recommendation
+171,Hi again,greeting
+172,"I want to explore Ras Al Khaimah, what should I see?",recommendation
+173,What are the top attractions in Dubai?,recommendation
+174,"What's a quiet, scenic place for just the two of us?",recommendation
+175,What is Al Noor Island?,attraction_info
+176,What's unique about Al Fahidi neighbourhood?,attraction_info
+177,Is Jebel Jais open on public holidays?,hours_logistics
+178,"I want to explore Umm Al Quwain, what should I see?",recommendation
+179,Describe Jebel Jais for me,attraction_info
+180,What's a nice sunset spot for couples in Abu Dhabi?,recommendation
+181,Good evening,greeting
+182,Describe Louvre Abu Dhabi for me,attraction_info
+183,What's a good outing for grandparents and kids together?,recommendation
+184,How's it going?,greeting
+185,Thank you,greeting
+186,Where can my partner and I have a quiet evening in Sharjah?,recommendation
+187,How early should I arrive to avoid crowds?,hours_logistics
+188,Any kid-friendly places in Abu Dhabi?,recommendation
+189,Suggest a romantic getaway in Sharjah,recommendation
+190,What's the most romantic place in Ajman?,recommendation
+191,Hey,greeting
+192,What's a good date spot in Dubai?,recommendation
+193,What can I visit in Fujairah?,recommendation
+194,Is parking available on site?,other
+195,Any theme parks suitable for kids in Fujairah?,recommendation
+196,"I'm traveling with young kids, what do you suggest in Umm Al Quwain?",recommendation
+197,Can you help me with my homework?,other
+198,What activities are good for toddlers in Dubai?,recommendation
+199,Romantic spots for couples in Umm Al Quwain?,recommendation
+200,Hiya,greeting
+201,Any romantic restaurants in Abu Dhabi?,recommendation
+202,What's the exchange rate for USD?,other
+203,"I'm traveling with young kids, what do you suggest in Fujairah?",recommendation
+204,Where can I bring my toddler for a fun outing?,recommendation
+205,What's a good gift for my mom?,other
+206,Any theme parks suitable for kids in Dubai?,recommendation
+207,Any educational activities for children in the UAE?,recommendation
+208,Where should we go for our anniversary in Umm Al Quwain?,recommendation
+209,"We're a family of 4 with two kids, what can we do in Abu Dhabi for the next 2 days?",recommendation
+210,Where can I take my partner in Fujairah?,recommendation
+211,Is Ajman Museum worth visiting?,attraction_info
+212,Can I visit Dubai Mall in the evening?,other
+213,What's a dreamy evening activity for couples?,recommendation
+214,Do I need tickets for Al Noor Island?,ticket_booking
+215,Can I visit Al Noor Island in the evening?,other
+216,What days is Sharjah Museum of Islamic Civilization closed?,hours_logistics
+217,Where can my family spend a day out in Ras Al Khaimah?,recommendation
+218,Are children allowed inside the mosque?,visitor_rules
+219,What are the visiting hours for Dubai Frame?,hours_logistics
+220,Help me write an email,other
+221,Good morning,greeting
+222,What's a peaceful place for couples in Umm Al Quwain?,recommendation
+223,"I'm on a business trip with a free afternoon in Dubai, what's nearby worth seeing?",recommendation
+224,Any beachfront dinner spots for two?,recommendation
+225,"I'm traveling with young kids, what do you suggest in Sharjah?",recommendation
+226,What's a nice sunset spot for couples in Sharjah?,recommendation
+227,How's the traffic right now?,other
+228,Tell me a joke,other
+229,Where can I take my partner in Dubai?,recommendation
+230,What activities are good for toddlers in Umm Al Quwain?,recommendation
+231,Recommend a cultural site in Ajman,recommendation
+232,Any romantic restaurants in Ajman?,recommendation
+233,What's the dress code for Sharjah Museum of Islamic Civilization?,visitor_rules
+234,Any romantic restaurants in Fujairah?,recommendation
+235,What's the score of the football match?,other
+236,Is Ajman Museum open today?,hours_logistics
+237,Tell me about Al Noor Island,attraction_info
+238,Recommend a cultural site in Abu Dhabi,recommendation
+239,Romantic spots for couples in Ajman?,recommendation
+240,Ahlan,greeting
+241,What's the most popular attraction in Sharjah?,attraction_info
+242,Any honeymoon-worthy spots in Dubai?,recommendation
+243,Where can my family spend a day out in Dubai?,recommendation
+244,How do I apply for a UAE visa?,other
+245,Do you know any good jokes?,other
+246,Suggest a romantic getaway in Abu Dhabi,recommendation
+247,Is Ajman Museum open on public holidays?,hours_logistics
+248,Is Qasr Al Watan open on Fridays?,hours_logistics
+249,Where can I take my children this weekend in Fujairah?,recommendation
+250,What's the dress code in public in the UAE?,visitor_rules
+251,What's a good day trip for a family with young children?,recommendation
+252,What is Burj Khalifa?,attraction_info
+253,What's the capital of France?,other
+254,Are there any water parks suitable for young children?,recommendation
+255,Family-friendly things to do in Fujairah?,recommendation
+256,What's the news today?,other
+257,Any kid-friendly places in Dubai?,recommendation
+258,What should first-time visitors see in Fujairah?,recommendation
+259,What's the legal drinking age here?,other
+260,What's the most popular attraction in Abu Dhabi?,attraction_info
+261,When does Ajman Museum close?,hours_logistics
+262,Do I need tickets for Louvre Abu Dhabi?,ticket_booking
+263,What's fun for the whole family in Umm Al Quwain?,recommendation
+264,Do I need to book in advance for Dubai Mall?,ticket_booking
+265,How much does it cost to enter Jebel Jais?,ticket_booking
+266,What's a good weekend plan for families visiting the UAE?,recommendation
+267,Shlonich?,greeting
+268,Give me some sightseeing ideas in Fujairah,recommendation
+269,What days is Burj Khalifa closed?,hours_logistics
+270,What's the weather like today?,other
+271,See you later,greeting
+272,Where should we go for our anniversary in Fujairah?,recommendation
+273,Suggest a romantic getaway in Fujairah,recommendation
+274,Family-friendly things to do in Dubai?,recommendation
+275,What's 15 times 12?,other
+276,How do I contact customer support?,other
+277,Ma'a salama,greeting
+278,"We're celebrating our anniversary, any suggestions?",recommendation
+279,Which museums should I visit in Sharjah?,recommendation
+280,Where can my partner and I have a quiet evening in Umm Al Quwain?,recommendation
+281,Family-friendly things to do in Umm Al Quwain?,recommendation
+282,"I'm curious about Dubai Frame, what is it like?",attraction_info
+283,Do I need to book in advance for Dreamland Aqua Park?,ticket_booking
+284,Where can couples go for a spa day together?,recommendation
+285,What's a nice sunset spot for couples in Umm Al Quwain?,recommendation
+286,Greetings,greeting
+287,"We have teenagers, what would they enjoy in Sharjah?",recommendation
+288,Any playgrounds or parks for children in Dubai?,recommendation
+289,What time does Qasr Al Watan open?,hours_logistics
+290,Any playgrounds or parks for children in Sharjah?,recommendation
+291,What's the currency used in the UAE?,other
+292,"Just the two of us for a weekend in Fujairah, any suggestions?",recommendation
+293,Are there any entry restrictions I should know about?,visitor_rules
+294,"We have teenagers, what would they enjoy in Ajman?",recommendation
+295,Can you translate this sentence?,other
+296,"There are 6 of us, 3 adults and 3 kids under 10, what do you suggest in Dubai?",recommendation
+297,Is Museum of the Future open on public holidays?,hours_logistics
+298,"We have teenagers, what would they enjoy in Umm Al Quwain?",recommendation
+299,Is Fujairah Fort open today?,hours_logistics
+300,Tell me about Ferrari World,attraction_info
+301,Can you book a flight for me?,other
+302,What's worth seeing near Ras Al Khaimah?,recommendation
+303,Any must-see spots in Ras Al Khaimah?,recommendation
+304,Give me some sightseeing ideas in Abu Dhabi,recommendation
+305,Any honeymoon-worthy spots in Ras Al Khaimah?,recommendation
+306,"I'm curious about Ferrari World, what is it like?",attraction_info
+307,Where can I go with my whole extended family?,recommendation
+308,Any playgrounds or parks for children in Ajman?,recommendation
+309,What's a good date spot in Fujairah?,recommendation
+310,Hello!,greeting
+311,What can I visit in Abu Dhabi?,recommendation
+312,What is the entry fee for tourists?,ticket_booking
+313,What's the dress code for Dreamland Aqua Park?,visitor_rules
+314,What days is Al Fahidi Historical Neighbourhood closed?,hours_logistics
+315,What's worth seeing near Ajman?,recommendation
+316,Masaa al-khair,greeting
+317,What kind of place is Qasr Al Watan?,attraction_info
+318,Any theme parks suitable for kids in Sharjah?,recommendation
+319,When does Sharjah Museum of Islamic Civilization close?,hours_logistics
+320,Ahlan wa sahlan,greeting
+321,"Hi, how are you?",greeting
+322,Goodbye,greeting
+323,What's the story behind Sheikh Zayed Grand Mosque?,attraction_info
+324,Where can I take my partner in Sharjah?,recommendation
+325,What history does Fujairah Fort have?,attraction_info
+326,Can you help me write a resume?,other
+327,Tell me about desert landmarks in the UAE,attraction_info
+328,What are the must-visit attractions in Dubai?,recommendation
+329,What are the top attractions in Abu Dhabi?,recommendation
+330,What are the best tourist places in the UAE?,recommendation
+331,What is the most famous landmark in Dubai?,attraction_info
+332,Which attractions are suitable for first-time visitors?,recommendation
+333,What are the hidden gems in the UAE?,recommendation
+334,What attractions are free to visit?,recommendation
+335,What attractions are open today?,hours_logistics
+336,Which attractions are worth visiting with children?,recommendation
+337,What are the newest attractions in the UAE?,recommendation
+338,What museums should I visit in Abu Dhabi?,recommendation
+339,What is the best museum in Dubai?,recommendation
+340,Is the Louvre Abu Dhabi worth visiting?,attraction_info
+341,What are the opening hours of the Museum of the Future?,hours_logistics
+342,Which museums are suitable for children?,recommendation
+343,Are there any free museums in the UAE?,recommendation
+344,What cultural museums are available?,recommendation
+345,Which museums have guided tours?,attraction_info
+346,What art museums are recommended?,recommendation
+347,What history museums can I visit?,recommendation
+348,How do I get to Burj Khalifa?,transportation
+349,How can I travel around Dubai?,transportation
+350,How do I use the Dubai Metro?,transportation
+351,Where is the nearest metro station?,transportation
+352,How much does a metro ticket cost?,transportation
+353,Is there public transportation to Abu Dhabi attractions?,transportation
+354,Can I pay for buses with a bank card?,transportation
+355,How do I get from Dubai Airport to Downtown Dubai?,transportation
+356,What is the best way to travel between Dubai and Abu Dhabi?,transportation
+357,Where can I find taxi services?,transportation
+358,Where is Dubai International Airport?,transportation
+359,How do I get from Abu Dhabi Airport to the city?,transportation
+360,What transportation is available from the airport?,transportation
+361,Are there airport shuttle buses?,transportation
+362,Where can I rent a car at the airport?,transportation
+363,Where can I try traditional Emirati food?,recommendation
+364,What are the best restaurants in Dubai?,recommendation
+365,Can you recommend halal restaurants?,recommendation
+366,What are the best seafood restaurants?,recommendation
+367,Where can I find vegetarian restaurants?,recommendation
+368,Which restaurants are family-friendly?,recommendation
+369,Where can I find affordable restaurants?,recommendation
+370,Which restaurants have a view of the Burj Khalifa?,recommendation
+371,What are the best breakfast places?,recommendation
+372,Can you recommend local cafés?,recommendation
+373,What is the largest shopping mall in Dubai?,attraction_info
+374,Where can I go luxury shopping?,recommendation
+375,What shopping malls are open late?,hours_logistics
+376,Where can I buy souvenirs?,recommendation
+377,Which traditional markets should I visit?,recommendation
+378,Where can I shop for local products?,recommendation
+379,What are the best outlet malls?,recommendation
+380,Which malls have entertainment for children?,recommendation
+381,Are there any shopping festivals happening now?,other
+382,What are the best shopping areas in Abu Dhabi?,recommendation
+383,What are the best beaches in Dubai?,recommendation
+384,Which beaches are free?,recommendation
+385,What beaches are family-friendly?,recommendation
+386,Which beach has water sports?,recommendation
+387,What is the cleanest beach in the UAE?,recommendation
+388,Can you recommend luxury hotels?,recommendation
+389,What are the best hotels near Burj Khalifa?,recommendation
+390,Which hotels are family-friendly?,recommendation
+391,What hotels are close to the airport?,other
+392,Can you recommend budget hotels?,recommendation
+393,What can I do with my family today?,recommendation
+394,What activities are suitable for children?,recommendation
+395,Which theme parks should I visit?,recommendation
+396,What indoor activities are available?,recommendation
+397,Where can I spend the whole day with kids?,recommendation
+398,Where can I go on a desert safari?,recommendation
+399,What adventure activities are available?,recommendation
+400,Can I go skydiving in Dubai?,recommendation
+401,Where can I ride a camel?,recommendation
+402,What water sports can I try?,recommendation
+403,Where can I learn about Emirati culture?,attraction_info
+404,What cultural experiences do you recommend?,recommendation
+405,Which heritage sites should I visit?,recommendation
+406,Where can I watch traditional performances?,recommendation
+407,What cultural festivals are held in the UAE?,attraction_info
+408,What events are happening today?,other
+409,Are there any concerts this week?,other
+410,What festivals are happening this month?,other
+411,Are there any family events this weekend?,recommendation
+412,What sports events are coming soon?,other
+413,What is the best time to visit the UAE?,recommendation
+414,How many days should I spend in Dubai?,recommendation
+415,How many days should I spend in Abu Dhabi?,recommendation
+416,What places should I visit in one day?,recommendation
+417,What attractions are open at night?,hours_logistics
+418,Where can I exchange currency?,other
+419,Where can I buy a SIM card?,other
+420,Where is the nearest tourist information center?,other
+421,What emergency number should I call?,other
+422,Where can I find free Wi-Fi?,other
+423,Which attractions are wheelchair accessible?,visitor_rules
+424,What attractions are suitable for elderly visitors?,visitor_rules
+425,Are there accessible transportation services?,transportation
+426,Which museums have accessibility services?,visitor_rules
+427,What family-friendly attractions are accessible for strollers?,recommendation
+428,Can I take photographs inside the museum?,visitor_rules
+429,What should women wear when visiting the mosque?,visitor_rules
+430,Are pets allowed at this attraction?,visitor_rules
+431,Can I bring food inside?,visitor_rules
+432,Is swimming permitted at this beach?,visitor_rules
+433,Are there any age restrictions?,visitor_rules
+434,Can children enter the attraction?,visitor_rules
+435,Can I bring a backpack inside?,visitor_rules
+436,Are there any prohibited items?,visitor_rules
+437,Do I need to cover my hair?,visitor_rules
+438,Can tourists visit during prayer time?,visitor_rules
+439,Is smoking allowed?,visitor_rules
+440,How much is admission to Louvre Abu Dhabi?,ticket_booking
+441,Can I buy my ticket at the entrance?,ticket_booking
+442,Should I reserve Ferrari World tickets beforehand?,ticket_booking
+443,Are tickets cheaper online?,ticket_booking
+444,Is there a discount for students?,ticket_booking
+445,Do children need a ticket?,ticket_booking
+446,Can I purchase tickets on arrival?,ticket_booking
+447,Are there discounted family tickets?,ticket_booking
+448,Is admission free for children?,ticket_booking
+449,Can I cancel my reservation?,ticket_booking
+450,What's the nearest metro station to Dubai Mall?,transportation
+451,How can I get from Dubai to Abu Dhabi?,transportation
+452,Can I take a bus to Louvre Abu Dhabi?,transportation
+453,How do I get from the airport to my hotel?,transportation
+454,Are taxis available outside the museum?,transportation
+455,Which bus goes to Sheikh Zayed Grand Mosque?,transportation
+456,How far is Ferrari World from Abu Dhabi airport?,transportation
+457,Can I reach Dubai Frame by metro?,transportation
